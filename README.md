@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Epic Potato
 - 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning unity/C#
-- 📫 How to reach me: discord @epicpotato3720
 - 😄 Pronouns: she/her
